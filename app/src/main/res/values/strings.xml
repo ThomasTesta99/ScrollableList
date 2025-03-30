@@ -9,11 +9,24 @@
     <string name="image3">Avengers Infinity War</string>
     <string name="image4">Avengers Endgame</string>
     <string name="image5">Wandavision</string>
-
+    <string name="image6">Zack Snyder\'s Justice League</string>
+    <string name="image7">Superman</string>
+    <string name="image8">Doctor Strange in the Multiverse of Madness</string>
+    <string name="image9">Thor Ragnarok</string>
+    <string name="image10">Man of Steel</string>
 
     <string name="theBatman">A young Batman, haunted by his family\'s past, must investigate a series of crimes committed by the Riddler, uncovering a web of corruption in Gotham City.</string>
     <string name="bvs">A battle of titans ensues as Batman, fearing Superman\'s power, seeks to end his reign on Earth, while Lex Luthor manipulates events to pit the two heroes against each other.</string>
     <string name="infinityWar">Thanos, a powerful intergalactic warlord, seeks to collect all six Infinity Stones to wipe out half of the universe\'s life, leading to a cosmic battle where the Avengers and their allies face devastating consequences. </string>
     <string name="endgame">The surviving Avengers and their allies must assemble once more to reverse Thanos\'s actions, which erased half of all life in the universe, and undo the chaos he created, no matter the cost. </string>
     <string name="wandavision">Wanda, struggling with grief after Vision\'s death, uses her powers to create a reality where she can live with him in a peaceful, controlled environment.</string>
+    <string name="snyderCut">After Superman\'s death, Batman and Wonder Woman recruit Aquaman, Flash, and Cyborg to stop the alien warlord Steppenwolf from uniting three powerful Mother Boxes and terraforming the planet into Darkseid\'s homeworld: Apokolips</string>
+    <string name="superman">Superman embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.</string>
+    <string name="doctorStrange2">Dr. Stephen Strange teams up with America Chavez, a teenager with the ability to traverse the multiverse, to confront the corrupted Wanda Maximoff, who seeks to harness Chavez\'s powers to reunite with her lost children, leading them through perilous alternate realities and challenging their understanding of good and evil. </string>
+    <string name="ragnarok">Thor must escape the alien planet Sakaar and race against time to stop his sister Hela from destroying Asgard and bringing about the end of his world—Ragnarök.</string>
+    <string name="mos">Clark Kent discovers his alien origins and becomes Superman to stop General Zod from destroying Earth and rebuilding Krypton.</string>
+
+
+
+
 </resources>
